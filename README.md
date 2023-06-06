@@ -1,16 +1,25 @@
-# to_do_app
+# Aplicativo Flutter de Lista de Tarefas
 
-A new Flutter project.
+Um aplicativo de lista de tarefas desenvolvido com Flutter. Com este aplicativo, você pode adicionar tarefas, marcar se estão concluídas e ele possui uma função de memória, que armazena as tarefas adicionadas e marcadas.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Adicionar novas tarefas
+- Marcar tarefas como concluídas
+- Armazenar tarefas no aplicativo
+- Lembrar tarefas marcadas
 
-A few resources to get you started if this is your first Flutter project:
+## Instalação
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Certifique-se de ter o Flutter instalado. Para mais informações, consulte a [documentação do Flutter](https://flutter.dev/docs/get-started/install).
+2. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+3. Navegue até o diretório do projeto: `cd seu-repositorio`
+4. Execute o aplicativo: `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request com melhorias ou correções.
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
